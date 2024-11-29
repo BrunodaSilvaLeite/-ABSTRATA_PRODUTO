@@ -1,6 +1,5 @@
-# Controle de Produtos 🛒
 
-## 🚀 Sobre o Projeto
+## Controle de Produtos 🛒
 
 Este projeto tem como objetivo criar uma aplicação para gerenciar diferentes tipos de produtos utilizando o paradigma da orientação a objetos e persistência de dados em um banco de dados relacional. Ele implementa as classes:
 
